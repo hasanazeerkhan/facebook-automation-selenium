@@ -1,0 +1,23 @@
+{
+  "name": "facebook-login-automation-selenium-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanazeerkhan/facebook-login-automation-selenium-javascript.git"
+  },
+  "author": "Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanazeerkhan/facebook-login-automation-selenium-javascript/issues"
+  },
+  "homepage": "https://github.com/hasanazeerkhan/facebook-login-automation-selenium-javascript#readme",
+  "dependencies": {
+    "chromedriver": "^129.0.0",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
