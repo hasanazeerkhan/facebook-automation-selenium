@@ -3,9 +3,6 @@
 ### About the Product
 Facebook is one of the most widely used social media platforms, owned by the American technology conglomerate Meta.
 
-## Technologies used
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="80" height="80"/> </a> </p>
-
 ### Test Coverage
 This repository covers the login functionality of Facebook, along with additional features.
 
@@ -19,5 +16,4 @@ This repository covers the login functionality of Facebook, along with additiona
 7. **Link Functionality**: Ensures all links across various pages work correctly.
 
 ### Technologies Used
-- [Selenium](https://www.selenium.dev/documentation/)
-- [JavaScript](https://www.javascript.com/)
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="80" height="80"/> </a> </p>
